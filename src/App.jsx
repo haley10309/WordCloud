@@ -10,6 +10,7 @@ function App() {
   return (
     <>
       <div>hello world!</div>
+      <div>my name</div>
     </>
   )
 }
